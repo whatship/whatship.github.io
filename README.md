@@ -7,3 +7,5 @@ WhatShip allows you to ship packages to and from anywhere in South Africa via Wh
 **Email:** [hello@whatship.me](mailto:hello@whatship.me)
 
 <img src="qr.png" width="200" height="200">
+
+by NI ROUT
